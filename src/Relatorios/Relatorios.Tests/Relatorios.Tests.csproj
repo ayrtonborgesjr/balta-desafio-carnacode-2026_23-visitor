@@ -20,4 +20,8 @@
         <Using Include="NUnit.Framework"/>
     </ItemGroup>
 
+    <ItemGroup>
+        <ProjectReference Include="..\Relatorios.Console\Relatorios.Console.csproj"/>
+    </ItemGroup>
+
 </Project>
