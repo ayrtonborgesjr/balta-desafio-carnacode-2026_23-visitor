@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Relatorios.Console/Relatorios.Console.csproj" />
+  <Project Path="Relatorios.Tests/Relatorios.Tests.csproj" />
+</Solution>
